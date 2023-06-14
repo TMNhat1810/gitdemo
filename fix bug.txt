@@ -1,3 +1,11 @@
 thanos --target bug
 
+thanos insert soul
+thanos insert power
+thanos insert mind
+thanos insert time
+thanos insert space
+
+thanos snap-finger --with-infinity-gauntlet
+
 vanished
